@@ -1,21 +1,22 @@
-## Straffen
-Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
-A3 - Strafbepaling
-De straffen zijn onderverdeeld in zeven categorieën:
+# Straffen
 
-Categorie 1: een waarschuwing + 50 uur taakstraf
-(max 3 waarschuwingen in 1 maand, hierna volgt automatisch oplegging cat. 2)
-Categorie 2: een ban van maximaal 1 dag
-Categorie 3: een ban van maximaal 2 dag
-Categorie 4: een ban van maximaal 3 dagen
-Categorie 5: een ban van maximaal 1 week
-Categorie 6: een ban van maximaal 1 maand
-Categorie 7: permanente ban
-Categorie 8: account wipe
-De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de Hoge Raad en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+## Geldigheid
+1. Het is niet toegestaan om als staff-lid mee te beslissen tijdens een staffzaak die gaat over hunzelf, vrienden of familie gaat. Dit om er voor te zorgen dat deze zaak eerlijk verloopt.
+2. Als er wordt gelogen tegen een staff-lid. Kan er voor gekozen worden om de straf te verzwaren. Dit moet door het stafflid bewezen kunnen worden door middel van een clip, logs, etc.
 
-Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
+
+## Strafbepaling
+De straffen zijn onderverdeeld in acht categorieën:
+
+Categorie 1: een waarschuwing + adminjail (max 30 mimuten)
+(Bij 3 waarschuwingen in 1 maand wordt er een automatische straf opgelegd. Dit is een ban van 1 dag)
+Categorie 2: een ban van maximaal 3 dagen
+Categorie 3: een ban van maximaal 1 week
+Categorie 4: een ban van maximaal 1 maand
+Categorie 5: permanente ban
+Categorie 6: account wipe
+
+Er kan door een staff-lid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 
 Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
 Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.

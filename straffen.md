@@ -10,10 +10,15 @@ De straffen zijn onderverdeeld in acht categorieën:
 
 Categorie 1: een waarschuwing + adminjail (max 30 mimuten)
 (Bij 3 waarschuwingen in 1 maand wordt er een automatische straf opgelegd. Dit is een ban van 1 dag)
+
 Categorie 2: een ban van maximaal 3 dagen
+
 Categorie 3: een ban van maximaal 1 week
+
 Categorie 4: een ban van maximaal 1 maand
+
 Categorie 5: permanente ban
+
 Categorie 6: account wipe
 
 Er kan door een staff-lid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.

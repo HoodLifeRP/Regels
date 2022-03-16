@@ -11,6 +11,6 @@ Zorg ervoor dat je alle regels kent voordat je de server gaat spelen.
 - Overval Regels
 - Politie Regels
 
-## Officiële discord server
+## Discord server
 
 Dit is de HoodLife RP discord server:

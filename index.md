@@ -1,7 +1,7 @@
 # Regels - HoodLife RP
 
 Welkom op de pagina voor de regels van HoodLife RP!
-In het menu aan de linkerkant kun je alle regels vinden van HoodLife RP.
+Aan de linkerkant kun je alle regels vinden van HoodLife RP.
 
 Zorg ervoor dat je alle regels kent voordat je de server gaat spelen.
 

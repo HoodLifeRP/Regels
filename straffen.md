@@ -18,11 +18,3 @@ De straffen zijn onderverdeeld in 5 categorieën:
 - Categorie 4: een ban van maximaal 1 maand
 
 - Categorie 5: permanente ban
-
-LET OP! Er kan door een staff-lid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
-
-Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
-Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
-Het omzeilen van een straf zal resulteren in een straf volgens categorie 7
-Bans worden uitgedeeld op basis van de GTA licentie en ip-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
-Een warning dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.

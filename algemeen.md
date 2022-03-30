@@ -2,6 +2,7 @@
 
 ### Regel 1 - RDM:
 **RDM is het vermoorden van een speler zonder geldige reden.**
+
 ➥ Iemand die zonder geldige reden word omgelegd zal gestraft worden volgens de 1e categorie.
 
 ### Regel 2 - VDM:
